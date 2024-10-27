@@ -1,0 +1,741 @@
+index,sample_id,possible_answers,query_type,query,answer,image_name
+0,0,,,Is there a instrument table?,yes,camera01_colorimage-001186.jpg
+1,1,,,Is there a instrument table?,yes,camera05_colorimage-003136.jpg
+2,2,,,Is there a instrument table?,yes,camera05_colorimage-005489.jpg
+3,3,,,Is there a instrument table?,yes,camera05_colorimage-005150.jpg
+4,4,,,Is there a instrument table?,yes,camera05_colorimage-002803.jpg
+5,5,,,Is there a instrument table?,yes,camera01_colorimage-006011.jpg
+6,6,,,Is there a instrument table?,yes,camera01_colorimage-002717.jpg
+7,7,,,Is there a instrument table?,yes,camera05_colorimage-004936.jpg
+8,8,,,Is there a instrument table?,yes,camera01_colorimage-002329.jpg
+9,9,,,Is there a instrument table?,yes,camera05_colorimage-001966.jpg
+10,10,,,Is there a instrument table?,yes,camera05_colorimage-005541.jpg
+11,11,,,Is there a instrument table?,yes,camera04_colorimage-004732.jpg
+12,12,,,Is there a instrument table?,yes,camera01_colorimage-005391.jpg
+13,13,,,Is there a instrument table?,yes,camera05_colorimage-000824.jpg
+14,14,,,Is there a instrument table?,yes,camera01_colorimage-005536.jpg
+15,15,,,Is there a instrument table?,yes,camera01_colorimage-001010.jpg
+16,16,,,Is there a instrument table?,yes,camera05_colorimage-005208.jpg
+17,17,,,Is there a instrument table?,yes,camera01_colorimage-002707.jpg
+18,18,,,Is there a instrument table?,yes,camera01_colorimage-001221.jpg
+19,19,,,Is there a instrument table?,yes,camera05_colorimage-005055.jpg
+20,20,,,Is there a anesthesia equipment?,yes,camera05_colorimage-003136.jpg
+21,21,,,Is there a anesthesia equipment?,yes,camera05_colorimage-005489.jpg
+22,22,,,Is there a anesthesia equipment?,yes,camera05_colorimage-005150.jpg
+23,23,,,Is there a anesthesia equipment?,yes,camera05_colorimage-002803.jpg
+24,24,,,Is there a anesthesia equipment?,yes,camera05_colorimage-004936.jpg
+25,25,,,Is there a anesthesia equipment?,yes,camera05_colorimage-001966.jpg
+26,26,,,Is there a anesthesia equipment?,yes,camera05_colorimage-005541.jpg
+27,27,,,Is there a anesthesia equipment?,yes,camera04_colorimage-004732.jpg
+28,28,,,Is there a anesthesia equipment?,yes,camera05_colorimage-000824.jpg
+29,29,,,Is there a anesthesia equipment?,yes,camera05_colorimage-005208.jpg
+30,30,,,Is there a anesthesia equipment?,yes,camera05_colorimage-005055.jpg
+31,31,,,Is there a anesthesia equipment?,yes,camera05_colorimage-001332.jpg
+32,32,,,Is there a anesthesia equipment?,yes,camera04_colorimage-005318.jpg
+33,33,,,Is there a anesthesia equipment?,yes,camera04_colorimage-001468.jpg
+34,34,,,Is there a anesthesia equipment?,yes,camera04_colorimage-003754.jpg
+35,35,,,Is there a anesthesia equipment?,yes,camera04_colorimage-002940.jpg
+36,36,,,Is there a anesthesia equipment?,yes,camera04_colorimage-000459.jpg
+37,37,,,Is there a anesthesia equipment?,yes,camera05_colorimage-001153.jpg
+38,38,,,Is there a anesthesia equipment?,yes,camera05_colorimage-000760.jpg
+39,39,,,Is there a anesthesia equipment?,yes,camera05_colorimage-001486.jpg
+40,40,,,Is there a operating table?,yes,camera05_colorimage-005489.jpg
+41,41,,,Is there a operating table?,yes,camera01_colorimage-002717.jpg
+42,42,,,Is there a operating table?,yes,camera01_colorimage-002329.jpg
+43,43,,,Is there a operating table?,yes,camera05_colorimage-005541.jpg
+44,44,,,Is there a operating table?,yes,camera04_colorimage-004732.jpg
+45,45,,,Is there a operating table?,yes,camera01_colorimage-005391.jpg
+46,46,,,Is there a operating table?,yes,camera01_colorimage-005536.jpg
+47,47,,,Is there a operating table?,yes,camera01_colorimage-002707.jpg
+48,48,,,Is there a operating table?,yes,camera04_colorimage-005318.jpg
+49,49,,,Is there a operating table?,yes,camera04_colorimage-003754.jpg
+50,50,,,Is there a operating table?,yes,camera04_colorimage-002940.jpg
+51,51,,,Is there a operating table?,yes,camera01_colorimage-004021.jpg
+52,52,,,Is there a operating table?,yes,camera01_colorimage-004058.jpg
+53,53,,,Is there a operating table?,yes,camera04_colorimage-004648.jpg
+54,54,,,Is there a operating table?,yes,camera04_colorimage-002308.jpg
+55,55,,,Is there a operating table?,yes,camera01_colorimage-004639.jpg
+56,56,,,Is there a operating table?,yes,camera01_colorimage-004244.jpg
+57,57,,,Is there a operating table?,yes,camera01_colorimage-003836.jpg
+58,58,,,Is there a operating table?,yes,camera04_colorimage-004028.jpg
+59,59,,,Is there a operating table?,yes,camera01_colorimage-003690.jpg
+60,60,,,Is there a MPS station?,yes,camera01_colorimage-001186.jpg
+61,61,,,Is there a MPS station?,yes,camera05_colorimage-003136.jpg
+62,62,,,Is there a MPS station?,yes,camera05_colorimage-005489.jpg
+63,63,,,Is there a MPS station?,yes,camera05_colorimage-005150.jpg
+64,64,,,Is there a MPS station?,yes,camera05_colorimage-002803.jpg
+65,65,,,Is there a MPS station?,yes,camera01_colorimage-006011.jpg
+66,66,,,Is there a MPS station?,yes,camera01_colorimage-002717.jpg
+67,67,,,Is there a MPS station?,yes,camera05_colorimage-004936.jpg
+68,68,,,Is there a MPS station?,yes,camera01_colorimage-002329.jpg
+69,69,,,Is there a MPS station?,yes,camera05_colorimage-001966.jpg
+70,70,,,Is there a MPS station?,yes,camera05_colorimage-005541.jpg
+71,71,,,Is there a MPS station?,yes,camera04_colorimage-004732.jpg
+72,72,,,Is there a MPS station?,yes,camera01_colorimage-005391.jpg
+73,73,,,Is there a MPS station?,yes,camera05_colorimage-000824.jpg
+74,74,,,Is there a MPS station?,yes,camera01_colorimage-005536.jpg
+75,75,,,Is there a MPS station?,yes,camera01_colorimage-001010.jpg
+76,76,,,Is there a MPS station?,yes,camera05_colorimage-005208.jpg
+77,77,,,Is there a MPS station?,yes,camera01_colorimage-002707.jpg
+78,78,,,Is there a MPS station?,yes,camera01_colorimage-001221.jpg
+79,79,,,Is there a MPS station?,yes,camera05_colorimage-005055.jpg
+80,80,,,Is there a patient?,yes,camera05_colorimage-003136.jpg
+81,81,,,Is there a patient?,yes,camera05_colorimage-005489.jpg
+82,82,,,Is there a patient?,yes,camera05_colorimage-005150.jpg
+83,83,,,Is there a patient?,yes,camera01_colorimage-002717.jpg
+84,84,,,Is there a patient?,yes,camera01_colorimage-002329.jpg
+85,85,,,Is there a patient?,yes,camera05_colorimage-005541.jpg
+86,86,,,Is there a patient?,yes,camera01_colorimage-005391.jpg
+87,87,,,Is there a patient?,yes,camera01_colorimage-005536.jpg
+88,88,,,Is there a patient?,yes,camera05_colorimage-005208.jpg
+89,89,,,Is there a patient?,yes,camera01_colorimage-002707.jpg
+90,90,,,Is there a patient?,yes,camera05_colorimage-005055.jpg
+91,91,,,Is there a patient?,yes,camera04_colorimage-005318.jpg
+92,92,,,Is there a patient?,yes,camera04_colorimage-003754.jpg
+93,93,,,Is there a patient?,yes,camera04_colorimage-002940.jpg
+94,94,,,Is there a patient?,yes,camera01_colorimage-004021.jpg
+95,95,,,Is there a patient?,yes,camera01_colorimage-004058.jpg
+96,96,,,Is there a patient?,yes,camera05_colorimage-004241.jpg
+97,97,,,Is there a patient?,yes,camera05_colorimage-003665.jpg
+98,98,,,Is there a patient?,yes,camera05_colorimage-003538.jpg
+99,99,,,Is there a patient?,yes,camera04_colorimage-002308.jpg
+100,100,,,Is there a drape?,yes,camera05_colorimage-003136.jpg
+101,101,,,Is there a drape?,yes,camera05_colorimage-005489.jpg
+102,102,,,Is there a drape?,yes,camera05_colorimage-005150.jpg
+103,103,,,Is there a drape?,yes,camera05_colorimage-002803.jpg
+104,104,,,Is there a drape?,yes,camera01_colorimage-002717.jpg
+105,105,,,Is there a drape?,yes,camera05_colorimage-004936.jpg
+106,106,,,Is there a drape?,yes,camera05_colorimage-005541.jpg
+107,107,,,Is there a drape?,yes,camera04_colorimage-004732.jpg
+108,108,,,Is there a drape?,yes,camera01_colorimage-005391.jpg
+109,109,,,Is there a drape?,yes,camera01_colorimage-005536.jpg
+110,110,,,Is there a drape?,yes,camera05_colorimage-005208.jpg
+111,111,,,Is there a drape?,yes,camera01_colorimage-002707.jpg
+112,112,,,Is there a drape?,yes,camera05_colorimage-005055.jpg
+113,113,,,Is there a drape?,yes,camera04_colorimage-005318.jpg
+114,114,,,Is there a drape?,yes,camera04_colorimage-003754.jpg
+115,115,,,Is there a drape?,yes,camera04_colorimage-002940.jpg
+116,116,,,Is there a drape?,yes,camera05_colorimage-004577.jpg
+117,117,,,Is there a drape?,yes,camera01_colorimage-004021.jpg
+118,118,,,Is there a drape?,yes,camera01_colorimage-004058.jpg
+119,119,,,Is there a drape?,yes,camera04_colorimage-004648.jpg
+120,120,,,Is there a anesthetist?,yes,camera05_colorimage-003136.jpg
+121,121,,,Is there a anesthetist?,yes,camera05_colorimage-005150.jpg
+122,122,,,Is there a anesthetist?,yes,camera05_colorimage-004936.jpg
+123,123,,,Is there a anesthetist?,yes,camera05_colorimage-001966.jpg
+124,124,,,Is there a anesthetist?,yes,camera05_colorimage-005541.jpg
+125,125,,,Is there a anesthetist?,yes,camera04_colorimage-004732.jpg
+126,126,,,Is there a anesthetist?,yes,camera05_colorimage-005208.jpg
+127,127,,,Is there a anesthetist?,yes,camera05_colorimage-005055.jpg
+128,128,,,Is there a anesthetist?,yes,camera04_colorimage-003754.jpg
+129,129,,,Is there a anesthetist?,yes,camera04_colorimage-002940.jpg
+130,130,,,Is there a anesthetist?,yes,camera04_colorimage-004648.jpg
+131,131,,,Is there a anesthetist?,yes,camera04_colorimage-002308.jpg
+132,132,,,Is there a anesthetist?,yes,camera04_colorimage-004028.jpg
+133,133,,,Is there a anesthetist?,yes,camera04_colorimage-002391.jpg
+134,134,,,Is there a anesthetist?,yes,camera05_colorimage-002949.jpg
+135,135,,,Is there a anesthetist?,yes,camera04_colorimage-003844.jpg
+136,136,,,Is there a anesthetist?,yes,camera04_colorimage-002208.jpg
+137,137,,,Is there a anesthetist?,yes,camera05_colorimage-002103.jpg
+138,138,,,Is there a anesthetist?,yes,camera05_colorimage-001833.jpg
+139,139,,,Is there a anesthetist?,yes,camera05_colorimage-005843.jpg
+140,140,,,Is there a circulator?,yes,camera01_colorimage-001186.jpg
+141,141,,,Is there a circulator?,yes,camera05_colorimage-003136.jpg
+142,142,,,Is there a circulator?,yes,camera05_colorimage-005489.jpg
+143,143,,,Is there a circulator?,yes,camera05_colorimage-005150.jpg
+144,144,,,Is there a circulator?,yes,camera05_colorimage-002803.jpg
+145,145,,,Is there a circulator?,yes,camera01_colorimage-002717.jpg
+146,146,,,Is there a circulator?,yes,camera05_colorimage-004936.jpg
+147,147,,,Is there a circulator?,yes,camera05_colorimage-005541.jpg
+148,148,,,Is there a circulator?,yes,camera05_colorimage-000824.jpg
+149,149,,,Is there a circulator?,yes,camera01_colorimage-005536.jpg
+150,150,,,Is there a circulator?,yes,camera01_colorimage-002707.jpg
+151,151,,,Is there a circulator?,yes,camera01_colorimage-001221.jpg
+152,152,,,Is there a circulator?,yes,camera05_colorimage-005055.jpg
+153,153,,,Is there a circulator?,yes,camera04_colorimage-001468.jpg
+154,154,,,Is there a circulator?,yes,camera04_colorimage-000459.jpg
+155,155,,,Is there a circulator?,yes,camera05_colorimage-001153.jpg
+156,156,,,Is there a circulator?,yes,camera05_colorimage-000760.jpg
+157,157,,,Is there a circulator?,yes,camera05_colorimage-001486.jpg
+158,158,,,Is there a circulator?,yes,camera05_colorimage-001347.jpg
+159,159,,,Is there a circulator?,yes,camera04_colorimage-002308.jpg
+160,160,,,Is there a assistant surgeon?,yes,camera05_colorimage-003136.jpg
+161,161,,,Is there a assistant surgeon?,yes,camera05_colorimage-005150.jpg
+162,162,,,Is there a assistant surgeon?,yes,camera05_colorimage-002803.jpg
+163,163,,,Is there a assistant surgeon?,yes,camera01_colorimage-002717.jpg
+164,164,,,Is there a assistant surgeon?,yes,camera05_colorimage-004936.jpg
+165,165,,,Is there a assistant surgeon?,yes,camera01_colorimage-002329.jpg
+166,166,,,Is there a assistant surgeon?,yes,camera04_colorimage-004732.jpg
+167,167,,,Is there a assistant surgeon?,yes,camera01_colorimage-005391.jpg
+168,168,,,Is there a assistant surgeon?,yes,camera05_colorimage-005208.jpg
+169,169,,,Is there a assistant surgeon?,yes,camera01_colorimage-002707.jpg
+170,170,,,Is there a assistant surgeon?,yes,camera05_colorimage-005055.jpg
+171,171,,,Is there a assistant surgeon?,yes,camera04_colorimage-005318.jpg
+172,172,,,Is there a assistant surgeon?,yes,camera04_colorimage-003754.jpg
+173,173,,,Is there a assistant surgeon?,yes,camera04_colorimage-002940.jpg
+174,174,,,Is there a assistant surgeon?,yes,camera05_colorimage-004577.jpg
+175,175,,,Is there a assistant surgeon?,yes,camera01_colorimage-004021.jpg
+176,176,,,Is there a assistant surgeon?,yes,camera01_colorimage-004058.jpg
+177,177,,,Is there a assistant surgeon?,yes,camera04_colorimage-004648.jpg
+178,178,,,Is there a assistant surgeon?,yes,camera05_colorimage-004241.jpg
+179,179,,,Is there a assistant surgeon?,yes,camera05_colorimage-003538.jpg
+180,180,,,Is there a head surgeon?,yes,camera05_colorimage-003136.jpg
+181,181,,,Is there a head surgeon?,yes,camera05_colorimage-005150.jpg
+182,182,,,Is there a head surgeon?,yes,camera05_colorimage-004936.jpg
+183,183,,,Is there a head surgeon?,yes,camera04_colorimage-004732.jpg
+184,184,,,Is there a head surgeon?,yes,camera05_colorimage-005208.jpg
+185,185,,,Is there a head surgeon?,yes,camera05_colorimage-005055.jpg
+186,186,,,Is there a head surgeon?,yes,camera04_colorimage-003754.jpg
+187,187,,,Is there a head surgeon?,yes,camera04_colorimage-002940.jpg
+188,188,,,Is there a head surgeon?,yes,camera05_colorimage-004577.jpg
+189,189,,,Is there a head surgeon?,yes,camera01_colorimage-004021.jpg
+190,190,,,Is there a head surgeon?,yes,camera01_colorimage-004058.jpg
+191,191,,,Is there a head surgeon?,yes,camera04_colorimage-004648.jpg
+192,192,,,Is there a head surgeon?,yes,camera05_colorimage-004241.jpg
+193,193,,,Is there a head surgeon?,yes,camera05_colorimage-003665.jpg
+194,194,,,Is there a head surgeon?,yes,camera05_colorimage-003538.jpg
+195,195,,,Is there a head surgeon?,yes,camera01_colorimage-004639.jpg
+196,196,,,Is there a head surgeon?,yes,camera01_colorimage-004244.jpg
+197,197,,,Is there a head surgeon?,yes,camera01_colorimage-003836.jpg
+198,198,,,Is there a head surgeon?,yes,camera04_colorimage-004028.jpg
+199,199,,,Is there a head surgeon?,yes,camera01_colorimage-003690.jpg
+200,200,,,Is there a mps?,yes,camera01_colorimage-001186.jpg
+201,201,,,Is there a mps?,yes,camera05_colorimage-003136.jpg
+202,202,,,Is there a mps?,yes,camera05_colorimage-005150.jpg
+203,203,,,Is there a mps?,yes,camera05_colorimage-002803.jpg
+204,204,,,Is there a mps?,yes,camera01_colorimage-002717.jpg
+205,205,,,Is there a mps?,yes,camera05_colorimage-004936.jpg
+206,206,,,Is there a mps?,yes,camera05_colorimage-001966.jpg
+207,207,,,Is there a mps?,yes,camera05_colorimage-005541.jpg
+208,208,,,Is there a mps?,yes,camera04_colorimage-004732.jpg
+209,209,,,Is there a mps?,yes,camera05_colorimage-000824.jpg
+210,210,,,Is there a mps?,yes,camera01_colorimage-005536.jpg
+211,211,,,Is there a mps?,yes,camera01_colorimage-001010.jpg
+212,212,,,Is there a mps?,yes,camera05_colorimage-005208.jpg
+213,213,,,Is there a mps?,yes,camera01_colorimage-002707.jpg
+214,214,,,Is there a mps?,yes,camera05_colorimage-005055.jpg
+215,215,,,Is there a mps?,yes,camera05_colorimage-001332.jpg
+216,216,,,Is there a mps?,yes,camera04_colorimage-005318.jpg
+217,217,,,Is there a mps?,yes,camera04_colorimage-001468.jpg
+218,218,,,Is there a mps?,yes,camera01_colorimage-001779.jpg
+219,219,,,Is there a mps?,yes,camera04_colorimage-003754.jpg
+220,220,,,Is there a nurse?,yes,camera01_colorimage-001186.jpg
+221,221,,,Is there a nurse?,yes,camera05_colorimage-003136.jpg
+222,222,,,Is there a nurse?,yes,camera05_colorimage-005150.jpg
+223,223,,,Is there a nurse?,yes,camera05_colorimage-002803.jpg
+224,224,,,Is there a nurse?,yes,camera01_colorimage-002717.jpg
+225,225,,,Is there a nurse?,yes,camera05_colorimage-004936.jpg
+226,226,,,Is there a nurse?,yes,camera01_colorimage-002329.jpg
+227,227,,,Is there a nurse?,yes,camera05_colorimage-001966.jpg
+228,228,,,Is there a nurse?,yes,camera05_colorimage-005541.jpg
+229,229,,,Is there a nurse?,yes,camera04_colorimage-004732.jpg
+230,230,,,Is there a nurse?,yes,camera01_colorimage-005391.jpg
+231,231,,,Is there a nurse?,yes,camera05_colorimage-000824.jpg
+232,232,,,Is there a nurse?,yes,camera01_colorimage-005536.jpg
+233,233,,,Is there a nurse?,yes,camera01_colorimage-001010.jpg
+234,234,,,Is there a nurse?,yes,camera05_colorimage-005208.jpg
+235,235,,,Is there a nurse?,yes,camera01_colorimage-002707.jpg
+236,236,,,Is there a nurse?,yes,camera01_colorimage-001221.jpg
+237,237,,,Is there a nurse?,yes,camera05_colorimage-005055.jpg
+238,238,,,Is there a nurse?,yes,camera05_colorimage-001332.jpg
+239,239,,,Is there a nurse?,yes,camera04_colorimage-005318.jpg
+240,240,,,Is there a drill?,yes,camera01_colorimage-005214.jpg
+241,241,,,Is there a drill?,yes,camera01_colorimage-003416.jpg
+242,242,,,Is there a drill?,yes,camera01_colorimage-005150.jpg
+243,243,,,Is there a drill?,yes,camera01_colorimage-003541.jpg
+244,244,,,Is there a drill?,yes,camera01_colorimage-005148.jpg
+245,245,,,Is there a drill?,yes,camera01_colorimage-003421.jpg
+246,246,,,Is there a drill?,yes,camera01_colorimage-005153.jpg
+247,247,,,Is there a drill?,yes,camera04_colorimage-005131.jpg
+248,248,,,Is there a drill?,yes,camera01_colorimage-005137.jpg
+249,249,,,Is there a drill?,yes,camera01_colorimage-005141.jpg
+250,250,,,Is there a drill?,yes,camera01_colorimage-003537.jpg
+251,251,,,Is there a drill?,yes,camera01_colorimage-005164.jpg
+252,252,,,Is there a drill?,yes,camera01_colorimage-003396.jpg
+253,253,,,Is there a drill?,yes,camera01_colorimage-003530.jpg
+254,254,,,Is there a drill?,yes,camera01_colorimage-005127.jpg
+255,255,,,Is there a drill?,yes,camera05_colorimage-003424.jpg
+256,256,,,Is there a drill?,yes,camera01_colorimage-005174.jpg
+257,257,,,Is there a drill?,yes,camera01_colorimage-005161.jpg
+258,258,,,Is there a drill?,yes,camera04_colorimage-005129.jpg
+259,259,,,Is there a drill?,yes,camera04_colorimage-005127.jpg
+260,260,,,Is there a hammer?,yes,camera01_colorimage-005070.jpg
+261,261,,,Is there a hammer?,yes,camera01_colorimage-004803.jpg
+262,262,,,Is there a hammer?,yes,camera04_colorimage-004797.jpg
+263,263,,,Is there a hammer?,yes,camera01_colorimage-004806.jpg
+264,264,,,Is there a hammer?,yes,camera01_colorimage-004771.jpg
+265,265,,,Is there a hammer?,yes,camera01_colorimage-004772.jpg
+266,266,,,Is there a hammer?,yes,camera01_colorimage-005069.jpg
+267,267,,,Is there a hammer?,yes,camera01_colorimage-005046.jpg
+268,268,,,Is there a hammer?,yes,camera01_colorimage-004805.jpg
+269,269,,,Is there a hammer?,yes,camera04_colorimage-004803.jpg
+270,270,,,Is there a hammer?,yes,camera01_colorimage-005062.jpg
+271,271,,,Is there a hammer?,yes,camera01_colorimage-004777.jpg
+272,272,,,Is there a hammer?,yes,camera01_colorimage-004807.jpg
+273,273,,,Is there a hammer?,yes,camera01_colorimage-005068.jpg
+274,274,,,Is there a hammer?,yes,camera01_colorimage-004782.jpg
+275,275,,,Is there a hammer?,yes,camera01_colorimage-004804.jpg
+276,276,,,Is there a hammer?,yes,camera01_colorimage-004770.jpg
+277,277,,,Is there a hammer?,yes,camera01_colorimage-005061.jpg
+278,278,,,Is there a hammer?,yes,camera04_colorimage-004806.jpg
+279,279,,,Is there a hammer?,yes,camera04_colorimage-004807.jpg
+280,280,,,Is there a saw?,yes,camera01_colorimage-002717.jpg
+281,281,,,Is there a saw?,yes,camera01_colorimage-002329.jpg
+282,282,,,Is there a saw?,yes,camera01_colorimage-002707.jpg
+283,283,,,Is there a saw?,yes,camera01_colorimage-002137.jpg
+284,284,,,Is there a saw?,yes,camera01_colorimage-004639.jpg
+285,285,,,Is there a saw?,yes,camera01_colorimage-004244.jpg
+286,286,,,Is there a saw?,yes,camera01_colorimage-002471.jpg
+287,287,,,Is there a saw?,yes,camera01_colorimage-003018.jpg
+288,288,,,Is there a saw?,yes,camera01_colorimage-004607.jpg
+289,289,,,Is there a saw?,yes,camera01_colorimage-002969.jpg
+290,290,,,Is there a saw?,yes,camera01_colorimage-002466.jpg
+291,291,,,Is there a saw?,yes,camera01_colorimage-004573.jpg
+292,292,,,Is there a saw?,yes,camera01_colorimage-002798.jpg
+293,293,,,Is there a saw?,yes,camera01_colorimage-002555.jpg
+294,294,,,Is there a saw?,yes,camera01_colorimage-003111.jpg
+295,295,,,Is there a saw?,yes,camera01_colorimage-001986.jpg
+296,296,,,Is there a saw?,yes,camera01_colorimage-001838.jpg
+297,297,,,Is there a saw?,yes,camera01_colorimage-003084.jpg
+298,298,,,Is there a saw?,yes,camera01_colorimage-002120.jpg
+299,299,,,Is there a saw?,yes,camera01_colorimage-002679.jpg
+300,300,,,Is there a tracker?,yes,camera05_colorimage-005992.jpg
+301,301,,,Is there a tracker?,yes,camera05_colorimage-003136.jpg
+302,302,,,Is there a tracker?,yes,camera04_colorimage-000794.jpg
+303,303,,,Is there a tracker?,yes,camera05_colorimage-003146.jpg
+304,304,,,Is there a tracker?,yes,camera04_colorimage-003018.jpg
+305,305,,,Is there a tracker?,yes,camera01_colorimage-003546.jpg
+306,306,,,Is there a tracker?,yes,camera01_colorimage-002947.jpg
+307,307,,,Is there a tracker?,yes,camera05_colorimage-002867.jpg
+308,308,,,Is there a tracker?,yes,camera04_colorimage-001693.jpg
+309,309,,,Is there a tracker?,yes,camera04_colorimage-002002.jpg
+310,310,,,Is there a tracker?,yes,camera04_colorimage-001748.jpg
+311,311,,,Is there a tracker?,yes,camera05_colorimage-004954.jpg
+312,312,,,Is there a tracker?,yes,camera05_colorimage-000875.jpg
+313,313,,,Is there a tracker?,yes,camera04_colorimage-002606.jpg
+314,314,,,Is there a tracker?,yes,camera04_colorimage-002345.jpg
+315,315,,,Is there a tracker?,yes,camera01_colorimage-002390.jpg
+316,316,,,Is there a tracker?,yes,camera05_colorimage-004279.jpg
+317,317,,,Is there a tracker?,yes,camera04_colorimage-002645.jpg
+318,318,,,Is there a tracker?,yes,camera04_colorimage-002865.jpg
+319,319,,,Is there a tracker?,yes,camera04_colorimage-003481.jpg
+320,320,,,Is there a robot?,yes,camera01_colorimage-001186.jpg
+321,321,,,Is there a robot?,yes,camera05_colorimage-003136.jpg
+322,322,,,Is there a robot?,yes,camera05_colorimage-005489.jpg
+323,323,,,Is there a robot?,yes,camera05_colorimage-005150.jpg
+324,324,,,Is there a robot?,yes,camera05_colorimage-002803.jpg
+325,325,,,Is there a robot?,yes,camera01_colorimage-006011.jpg
+326,326,,,Is there a robot?,yes,camera01_colorimage-002717.jpg
+327,327,,,Is there a robot?,yes,camera05_colorimage-004936.jpg
+328,328,,,Is there a robot?,yes,camera01_colorimage-002329.jpg
+329,329,,,Is there a robot?,yes,camera05_colorimage-001966.jpg
+330,330,,,Is there a robot?,yes,camera05_colorimage-005541.jpg
+331,331,,,Is there a robot?,yes,camera04_colorimage-004732.jpg
+332,332,,,Is there a robot?,yes,camera05_colorimage-000824.jpg
+333,333,,,Is there a robot?,yes,camera01_colorimage-001010.jpg
+334,334,,,Is there a robot?,yes,camera05_colorimage-005208.jpg
+335,335,,,Is there a robot?,yes,camera01_colorimage-002707.jpg
+336,336,,,Is there a robot?,yes,camera01_colorimage-001221.jpg
+337,337,,,Is there a robot?,yes,camera05_colorimage-005055.jpg
+338,338,,,Is there a robot?,yes,camera05_colorimage-001332.jpg
+339,339,,,Is there a robot?,yes,camera04_colorimage-005318.jpg
+340,340,,,Is there a monitor?,yes,camera01_colorimage-001186.jpg
+341,341,,,Is there a monitor?,yes,camera05_colorimage-003136.jpg
+342,342,,,Is there a monitor?,yes,camera05_colorimage-005489.jpg
+343,343,,,Is there a monitor?,yes,camera05_colorimage-005150.jpg
+344,344,,,Is there a monitor?,yes,camera05_colorimage-002803.jpg
+345,345,,,Is there a monitor?,yes,camera01_colorimage-002717.jpg
+346,346,,,Is there a monitor?,yes,camera05_colorimage-004936.jpg
+347,347,,,Is there a monitor?,yes,camera01_colorimage-002329.jpg
+348,348,,,Is there a monitor?,yes,camera05_colorimage-001966.jpg
+349,349,,,Is there a monitor?,yes,camera05_colorimage-005541.jpg
+350,350,,,Is there a monitor?,yes,camera04_colorimage-004732.jpg
+351,351,,,Is there a monitor?,yes,camera01_colorimage-005391.jpg
+352,352,,,Is there a monitor?,yes,camera05_colorimage-000824.jpg
+353,353,,,Is there a monitor?,yes,camera01_colorimage-005536.jpg
+354,354,,,Is there a monitor?,yes,camera01_colorimage-001010.jpg
+355,355,,,Is there a monitor?,yes,camera05_colorimage-005208.jpg
+356,356,,,Is there a monitor?,yes,camera01_colorimage-002707.jpg
+357,357,,,Is there a monitor?,yes,camera01_colorimage-001221.jpg
+358,358,,,Is there a monitor?,yes,camera05_colorimage-005055.jpg
+359,359,,,Is there a monitor?,yes,camera05_colorimage-001332.jpg
+360,360,,,Is there a C-arm?,yes,camera05_colorimage-005489.jpg
+361,361,,,Is there a C-arm?,yes,camera05_colorimage-005541.jpg
+362,362,,,Is there a C-arm?,yes,camera01_colorimage-005391.jpg
+363,363,,,Is there a C-arm?,yes,camera01_colorimage-005536.jpg
+364,364,,,Is there a C-arm?,yes,camera01_colorimage-005403.jpg
+365,365,,,Is there a C-arm?,yes,camera01_colorimage-005440.jpg
+366,366,,,Is there a C-arm?,yes,camera04_colorimage-005539.jpg
+367,367,,,Is there a C-arm?,yes,camera05_colorimage-005521.jpg
+368,368,,,Is there a C-arm?,yes,camera05_colorimage-005476.jpg
+369,369,,,Is there a C-arm?,yes,camera04_colorimage-005492.jpg
+370,370,,,Is there a C-arm?,yes,camera04_colorimage-005474.jpg
+371,371,,,Is there a C-arm?,yes,camera01_colorimage-005494.jpg
+372,372,,,Is there a C-arm?,yes,camera05_colorimage-005532.jpg
+373,373,,,Is there a C-arm?,yes,camera04_colorimage-005591.jpg
+374,374,,,Is there a C-arm?,yes,camera04_colorimage-005550.jpg
+375,375,,,Is there a C-arm?,yes,camera05_colorimage-005501.jpg
+376,376,,,Is there a C-arm?,yes,camera01_colorimage-005521.jpg
+377,377,,,Is there a C-arm?,yes,camera04_colorimage-005533.jpg
+378,378,,,Is there a C-arm?,yes,camera01_colorimage-005535.jpg
+379,379,,,Is there a C-arm?,yes,camera05_colorimage-005540.jpg
+380,380,,,Is there a instrument table?,no,camera04_colorimage-005957.jpg
+381,381,,,Is there a instrument table?,no,camera01_colorimage-003534.jpg
+382,382,,,Is there a instrument table?,no,camera04_colorimage-005959.jpg
+383,383,,,Is there a instrument table?,no,camera01_colorimage-003537.jpg
+384,384,,,Is there a instrument table?,no,camera01_colorimage-003144.jpg
+385,385,,,Is there a instrument table?,no,camera04_colorimage-005960.jpg
+386,386,,,Is there a instrument table?,no,camera01_colorimage-003539.jpg
+387,387,,,Is there a instrument table?,no,camera01_colorimage-003171.jpg
+388,388,,,Is there a instrument table?,no,camera01_colorimage-003152.jpg
+389,389,,,Is there a instrument table?,no,camera04_colorimage-003255.jpg
+390,390,,,Is there a instrument table?,no,camera01_colorimage-003153.jpg
+391,391,,,Is there a instrument table?,no,camera04_colorimage-003254.jpg
+392,392,,,Is there a instrument table?,no,camera01_colorimage-003155.jpg
+393,393,,,Is there a instrument table?,no,camera01_colorimage-003154.jpg
+394,394,,,Is there a instrument table?,no,camera04_colorimage-005958.jpg
+395,395,,,Is there a instrument table?,no,camera01_colorimage-003156.jpg
+396,396,,,Is there a instrument table?,no,camera01_colorimage-003536.jpg
+397,397,,,Is there a instrument table?,no,camera01_colorimage-003538.jpg
+398,398,,,Is there a instrument table?,no,camera04_colorimage-003253.jpg
+399,399,,,Is there a instrument table?,no,camera01_colorimage-003535.jpg
+400,400,,,Is there a anesthesia equipment?,no,camera01_colorimage-001186.jpg
+401,401,,,Is there a anesthesia equipment?,no,camera01_colorimage-006011.jpg
+402,402,,,Is there a anesthesia equipment?,no,camera01_colorimage-002717.jpg
+403,403,,,Is there a anesthesia equipment?,no,camera01_colorimage-002329.jpg
+404,404,,,Is there a anesthesia equipment?,no,camera01_colorimage-005391.jpg
+405,405,,,Is there a anesthesia equipment?,no,camera01_colorimage-005536.jpg
+406,406,,,Is there a anesthesia equipment?,no,camera01_colorimage-001010.jpg
+407,407,,,Is there a anesthesia equipment?,no,camera01_colorimage-002707.jpg
+408,408,,,Is there a anesthesia equipment?,no,camera01_colorimage-001221.jpg
+409,409,,,Is there a anesthesia equipment?,no,camera01_colorimage-001779.jpg
+410,410,,,Is there a anesthesia equipment?,no,camera01_colorimage-004021.jpg
+411,411,,,Is there a anesthesia equipment?,no,camera01_colorimage-004058.jpg
+412,412,,,Is there a anesthesia equipment?,no,camera01_colorimage-004639.jpg
+413,413,,,Is there a anesthesia equipment?,no,camera01_colorimage-000687.jpg
+414,414,,,Is there a anesthesia equipment?,no,camera01_colorimage-004244.jpg
+415,415,,,Is there a anesthesia equipment?,no,camera01_colorimage-003836.jpg
+416,416,,,Is there a anesthesia equipment?,no,camera01_colorimage-003690.jpg
+417,417,,,Is there a anesthesia equipment?,no,camera01_colorimage-002471.jpg
+418,418,,,Is there a anesthesia equipment?,no,camera01_colorimage-005693.jpg
+419,419,,,Is there a anesthesia equipment?,no,camera01_colorimage-003018.jpg
+420,420,,,Is there a operating table?,no,camera01_colorimage-001186.jpg
+421,421,,,Is there a operating table?,no,camera05_colorimage-003136.jpg
+422,422,,,Is there a operating table?,no,camera05_colorimage-005150.jpg
+423,423,,,Is there a operating table?,no,camera05_colorimage-002803.jpg
+424,424,,,Is there a operating table?,no,camera01_colorimage-006011.jpg
+425,425,,,Is there a operating table?,no,camera05_colorimage-004936.jpg
+426,426,,,Is there a operating table?,no,camera05_colorimage-001966.jpg
+427,427,,,Is there a operating table?,no,camera05_colorimage-000824.jpg
+428,428,,,Is there a operating table?,no,camera01_colorimage-001010.jpg
+429,429,,,Is there a operating table?,no,camera05_colorimage-005208.jpg
+430,430,,,Is there a operating table?,no,camera01_colorimage-001221.jpg
+431,431,,,Is there a operating table?,no,camera05_colorimage-005055.jpg
+432,432,,,Is there a operating table?,no,camera05_colorimage-001332.jpg
+433,433,,,Is there a operating table?,no,camera04_colorimage-001468.jpg
+434,434,,,Is there a operating table?,no,camera01_colorimage-001779.jpg
+435,435,,,Is there a operating table?,no,camera04_colorimage-000459.jpg
+436,436,,,Is there a operating table?,no,camera05_colorimage-001153.jpg
+437,437,,,Is there a operating table?,no,camera05_colorimage-000760.jpg
+438,438,,,Is there a operating table?,no,camera05_colorimage-001486.jpg
+439,439,,,Is there a operating table?,no,camera05_colorimage-004577.jpg
+440,440,,,Is there a MPS station?,no,camera05_colorimage-001037.jpg
+441,441,,,Is there a MPS station?,no,camera04_colorimage-003477.jpg
+442,442,,,Is there a MPS station?,no,camera05_colorimage-001035.jpg
+443,443,,,Is there a MPS station?,no,camera05_colorimage-004815.jpg
+444,444,,,Is there a MPS station?,no,camera04_colorimage-003479.jpg
+445,445,,,Is there a MPS station?,no,camera05_colorimage-002693.jpg
+446,446,,,Is there a MPS station?,no,camera05_colorimage-001041.jpg
+447,447,,,Is there a MPS station?,no,camera05_colorimage-002688.jpg
+448,448,,,Is there a MPS station?,no,camera04_colorimage-002851.jpg
+449,449,,,Is there a MPS station?,no,camera05_colorimage-001034.jpg
+450,450,,,Is there a MPS station?,no,camera04_colorimage-003255.jpg
+451,451,,,Is there a MPS station?,no,camera05_colorimage-002689.jpg
+452,452,,,Is there a MPS station?,no,camera05_colorimage-002811.jpg
+453,453,,,Is there a MPS station?,no,camera05_colorimage-001042.jpg
+454,454,,,Is there a MPS station?,no,camera04_colorimage-003254.jpg
+455,455,,,Is there a MPS station?,no,camera04_colorimage-005304.jpg
+456,456,,,Is there a MPS station?,no,camera01_colorimage-000411.jpg
+457,457,,,Is there a MPS station?,no,camera05_colorimage-002687.jpg
+458,458,,,Is there a MPS station?,no,camera04_colorimage-001938.jpg
+459,459,,,Is there a MPS station?,no,camera05_colorimage-001608.jpg
+460,460,,,Is there a patient?,no,camera01_colorimage-001186.jpg
+461,461,,,Is there a patient?,no,camera05_colorimage-002803.jpg
+462,462,,,Is there a patient?,no,camera01_colorimage-006011.jpg
+463,463,,,Is there a patient?,no,camera05_colorimage-004936.jpg
+464,464,,,Is there a patient?,no,camera05_colorimage-001966.jpg
+465,465,,,Is there a patient?,no,camera04_colorimage-004732.jpg
+466,466,,,Is there a patient?,no,camera05_colorimage-000824.jpg
+467,467,,,Is there a patient?,no,camera01_colorimage-001010.jpg
+468,468,,,Is there a patient?,no,camera01_colorimage-001221.jpg
+469,469,,,Is there a patient?,no,camera05_colorimage-001332.jpg
+470,470,,,Is there a patient?,no,camera04_colorimage-001468.jpg
+471,471,,,Is there a patient?,no,camera01_colorimage-001779.jpg
+472,472,,,Is there a patient?,no,camera04_colorimage-000459.jpg
+473,473,,,Is there a patient?,no,camera05_colorimage-001153.jpg
+474,474,,,Is there a patient?,no,camera05_colorimage-000760.jpg
+475,475,,,Is there a patient?,no,camera05_colorimage-001486.jpg
+476,476,,,Is there a patient?,no,camera05_colorimage-004577.jpg
+477,477,,,Is there a patient?,no,camera04_colorimage-001334.jpg
+478,478,,,Is there a patient?,no,camera05_colorimage-001347.jpg
+479,479,,,Is there a patient?,no,camera04_colorimage-004648.jpg
+480,480,,,Is there a drape?,no,camera01_colorimage-001186.jpg
+481,481,,,Is there a drape?,no,camera01_colorimage-006011.jpg
+482,482,,,Is there a drape?,no,camera01_colorimage-002329.jpg
+483,483,,,Is there a drape?,no,camera05_colorimage-001966.jpg
+484,484,,,Is there a drape?,no,camera05_colorimage-000824.jpg
+485,485,,,Is there a drape?,no,camera01_colorimage-001010.jpg
+486,486,,,Is there a drape?,no,camera01_colorimage-001221.jpg
+487,487,,,Is there a drape?,no,camera05_colorimage-001332.jpg
+488,488,,,Is there a drape?,no,camera04_colorimage-001468.jpg
+489,489,,,Is there a drape?,no,camera01_colorimage-001779.jpg
+490,490,,,Is there a drape?,no,camera04_colorimage-000459.jpg
+491,491,,,Is there a drape?,no,camera05_colorimage-001153.jpg
+492,492,,,Is there a drape?,no,camera05_colorimage-000760.jpg
+493,493,,,Is there a drape?,no,camera05_colorimage-001486.jpg
+494,494,,,Is there a drape?,no,camera04_colorimage-001334.jpg
+495,495,,,Is there a drape?,no,camera05_colorimage-001347.jpg
+496,496,,,Is there a drape?,no,camera04_colorimage-002308.jpg
+497,497,,,Is there a drape?,no,camera05_colorimage-000842.jpg
+498,498,,,Is there a drape?,no,camera01_colorimage-000687.jpg
+499,499,,,Is there a drape?,no,camera05_colorimage-000987.jpg
+500,500,,,Is there a anesthetist?,no,camera01_colorimage-001186.jpg
+501,501,,,Is there a anesthetist?,no,camera05_colorimage-005489.jpg
+502,502,,,Is there a anesthetist?,no,camera05_colorimage-002803.jpg
+503,503,,,Is there a anesthetist?,no,camera01_colorimage-006011.jpg
+504,504,,,Is there a anesthetist?,no,camera01_colorimage-002717.jpg
+505,505,,,Is there a anesthetist?,no,camera01_colorimage-002329.jpg
+506,506,,,Is there a anesthetist?,no,camera01_colorimage-005391.jpg
+507,507,,,Is there a anesthetist?,no,camera05_colorimage-000824.jpg
+508,508,,,Is there a anesthetist?,no,camera01_colorimage-005536.jpg
+509,509,,,Is there a anesthetist?,no,camera01_colorimage-001010.jpg
+510,510,,,Is there a anesthetist?,no,camera01_colorimage-002707.jpg
+511,511,,,Is there a anesthetist?,no,camera01_colorimage-001221.jpg
+512,512,,,Is there a anesthetist?,no,camera05_colorimage-001332.jpg
+513,513,,,Is there a anesthetist?,no,camera04_colorimage-005318.jpg
+514,514,,,Is there a anesthetist?,no,camera04_colorimage-001468.jpg
+515,515,,,Is there a anesthetist?,no,camera01_colorimage-001779.jpg
+516,516,,,Is there a anesthetist?,no,camera04_colorimage-000459.jpg
+517,517,,,Is there a anesthetist?,no,camera05_colorimage-001153.jpg
+518,518,,,Is there a anesthetist?,no,camera05_colorimage-000760.jpg
+519,519,,,Is there a anesthetist?,no,camera05_colorimage-001486.jpg
+520,520,,,Is there a circulator?,no,camera01_colorimage-006011.jpg
+521,521,,,Is there a circulator?,no,camera01_colorimage-002329.jpg
+522,522,,,Is there a circulator?,no,camera05_colorimage-001966.jpg
+523,523,,,Is there a circulator?,no,camera04_colorimage-004732.jpg
+524,524,,,Is there a circulator?,no,camera01_colorimage-005391.jpg
+525,525,,,Is there a circulator?,no,camera01_colorimage-001010.jpg
+526,526,,,Is there a circulator?,no,camera05_colorimage-005208.jpg
+527,527,,,Is there a circulator?,no,camera05_colorimage-001332.jpg
+528,528,,,Is there a circulator?,no,camera04_colorimage-005318.jpg
+529,529,,,Is there a circulator?,no,camera01_colorimage-001779.jpg
+530,530,,,Is there a circulator?,no,camera04_colorimage-003754.jpg
+531,531,,,Is there a circulator?,no,camera04_colorimage-002940.jpg
+532,532,,,Is there a circulator?,no,camera05_colorimage-004577.jpg
+533,533,,,Is there a circulator?,no,camera01_colorimage-004021.jpg
+534,534,,,Is there a circulator?,no,camera01_colorimage-004058.jpg
+535,535,,,Is there a circulator?,no,camera04_colorimage-001334.jpg
+536,536,,,Is there a circulator?,no,camera04_colorimage-004648.jpg
+537,537,,,Is there a circulator?,no,camera05_colorimage-004241.jpg
+538,538,,,Is there a circulator?,no,camera05_colorimage-003665.jpg
+539,539,,,Is there a circulator?,no,camera05_colorimage-003538.jpg
+540,540,,,Is there a assistant surgeon?,no,camera01_colorimage-001186.jpg
+541,541,,,Is there a assistant surgeon?,no,camera05_colorimage-005489.jpg
+542,542,,,Is there a assistant surgeon?,no,camera01_colorimage-006011.jpg
+543,543,,,Is there a assistant surgeon?,no,camera05_colorimage-001966.jpg
+544,544,,,Is there a assistant surgeon?,no,camera05_colorimage-005541.jpg
+545,545,,,Is there a assistant surgeon?,no,camera05_colorimage-000824.jpg
+546,546,,,Is there a assistant surgeon?,no,camera01_colorimage-005536.jpg
+547,547,,,Is there a assistant surgeon?,no,camera01_colorimage-001010.jpg
+548,548,,,Is there a assistant surgeon?,no,camera01_colorimage-001221.jpg
+549,549,,,Is there a assistant surgeon?,no,camera05_colorimage-001332.jpg
+550,550,,,Is there a assistant surgeon?,no,camera04_colorimage-001468.jpg
+551,551,,,Is there a assistant surgeon?,no,camera01_colorimage-001779.jpg
+552,552,,,Is there a assistant surgeon?,no,camera04_colorimage-000459.jpg
+553,553,,,Is there a assistant surgeon?,no,camera05_colorimage-001153.jpg
+554,554,,,Is there a assistant surgeon?,no,camera05_colorimage-000760.jpg
+555,555,,,Is there a assistant surgeon?,no,camera05_colorimage-001486.jpg
+556,556,,,Is there a assistant surgeon?,no,camera04_colorimage-001334.jpg
+557,557,,,Is there a assistant surgeon?,no,camera05_colorimage-001347.jpg
+558,558,,,Is there a assistant surgeon?,no,camera05_colorimage-003665.jpg
+559,559,,,Is there a assistant surgeon?,no,camera05_colorimage-000842.jpg
+560,560,,,Is there a head surgeon?,no,camera01_colorimage-001186.jpg
+561,561,,,Is there a head surgeon?,no,camera05_colorimage-005489.jpg
+562,562,,,Is there a head surgeon?,no,camera05_colorimage-002803.jpg
+563,563,,,Is there a head surgeon?,no,camera01_colorimage-006011.jpg
+564,564,,,Is there a head surgeon?,no,camera01_colorimage-002717.jpg
+565,565,,,Is there a head surgeon?,no,camera01_colorimage-002329.jpg
+566,566,,,Is there a head surgeon?,no,camera05_colorimage-001966.jpg
+567,567,,,Is there a head surgeon?,no,camera05_colorimage-005541.jpg
+568,568,,,Is there a head surgeon?,no,camera01_colorimage-005391.jpg
+569,569,,,Is there a head surgeon?,no,camera05_colorimage-000824.jpg
+570,570,,,Is there a head surgeon?,no,camera01_colorimage-005536.jpg
+571,571,,,Is there a head surgeon?,no,camera01_colorimage-001010.jpg
+572,572,,,Is there a head surgeon?,no,camera01_colorimage-002707.jpg
+573,573,,,Is there a head surgeon?,no,camera01_colorimage-001221.jpg
+574,574,,,Is there a head surgeon?,no,camera05_colorimage-001332.jpg
+575,575,,,Is there a head surgeon?,no,camera04_colorimage-005318.jpg
+576,576,,,Is there a head surgeon?,no,camera04_colorimage-001468.jpg
+577,577,,,Is there a head surgeon?,no,camera01_colorimage-001779.jpg
+578,578,,,Is there a head surgeon?,no,camera04_colorimage-000459.jpg
+579,579,,,Is there a head surgeon?,no,camera05_colorimage-001153.jpg
+580,580,,,Is there a mps?,no,camera05_colorimage-005489.jpg
+581,581,,,Is there a mps?,no,camera01_colorimage-006011.jpg
+582,582,,,Is there a mps?,no,camera01_colorimage-002329.jpg
+583,583,,,Is there a mps?,no,camera01_colorimage-005391.jpg
+584,584,,,Is there a mps?,no,camera01_colorimage-001221.jpg
+585,585,,,Is there a mps?,no,camera05_colorimage-001153.jpg
+586,586,,,Is there a mps?,no,camera04_colorimage-002208.jpg
+587,587,,,Is there a mps?,no,camera05_colorimage-004870.jpg
+588,588,,,Is there a mps?,no,camera04_colorimage-004136.jpg
+589,589,,,Is there a mps?,no,camera01_colorimage-005380.jpg
+590,590,,,Is there a mps?,no,camera01_colorimage-005403.jpg
+591,591,,,Is there a mps?,no,camera05_colorimage-002229.jpg
+592,592,,,Is there a mps?,no,camera01_colorimage-003244.jpg
+593,593,,,Is there a mps?,no,camera05_colorimage-002983.jpg
+594,594,,,Is there a mps?,no,camera04_colorimage-004170.jpg
+595,595,,,Is there a mps?,no,camera04_colorimage-002335.jpg
+596,596,,,Is there a mps?,no,camera04_colorimage-001133.jpg
+597,597,,,Is there a mps?,no,camera04_colorimage-005492.jpg
+598,598,,,Is there a mps?,no,camera04_colorimage-004739.jpg
+599,599,,,Is there a mps?,no,camera01_colorimage-005494.jpg
+600,600,,,Is there a nurse?,no,camera05_colorimage-005489.jpg
+601,601,,,Is there a nurse?,no,camera01_colorimage-006011.jpg
+602,602,,,Is there a nurse?,no,camera04_colorimage-005492.jpg
+603,603,,,Is there a nurse?,no,camera01_colorimage-005494.jpg
+604,604,,,Is there a nurse?,no,camera05_colorimage-005501.jpg
+605,605,,,Is there a nurse?,no,camera04_colorimage-005488.jpg
+606,606,,,Is there a nurse?,no,camera01_colorimage-005489.jpg
+607,607,,,Is there a nurse?,no,camera01_colorimage-006000.jpg
+608,608,,,Is there a nurse?,no,camera05_colorimage-005500.jpg
+609,609,,,Is there a nurse?,no,camera05_colorimage-005495.jpg
+610,610,,,Is there a nurse?,no,camera05_colorimage-005492.jpg
+611,611,,,Is there a nurse?,no,camera01_colorimage-006003.jpg
+612,612,,,Is there a nurse?,no,camera01_colorimage-005614.jpg
+613,613,,,Is there a nurse?,no,camera01_colorimage-005487.jpg
+614,614,,,Is there a nurse?,no,camera01_colorimage-005610.jpg
+615,615,,,Is there a nurse?,no,camera01_colorimage-005492.jpg
+616,616,,,Is there a nurse?,no,camera01_colorimage-005597.jpg
+617,617,,,Is there a nurse?,no,camera05_colorimage-005487.jpg
+618,618,,,Is there a nurse?,no,camera05_colorimage-006007.jpg
+619,619,,,Is there a nurse?,no,camera04_colorimage-005596.jpg
+620,620,,,Is there a drill?,no,camera01_colorimage-001186.jpg
+621,621,,,Is there a drill?,no,camera05_colorimage-003136.jpg
+622,622,,,Is there a drill?,no,camera05_colorimage-005489.jpg
+623,623,,,Is there a drill?,no,camera05_colorimage-005150.jpg
+624,624,,,Is there a drill?,no,camera05_colorimage-002803.jpg
+625,625,,,Is there a drill?,no,camera01_colorimage-006011.jpg
+626,626,,,Is there a drill?,no,camera01_colorimage-002717.jpg
+627,627,,,Is there a drill?,no,camera05_colorimage-004936.jpg
+628,628,,,Is there a drill?,no,camera01_colorimage-002329.jpg
+629,629,,,Is there a drill?,no,camera05_colorimage-001966.jpg
+630,630,,,Is there a drill?,no,camera05_colorimage-005541.jpg
+631,631,,,Is there a drill?,no,camera04_colorimage-004732.jpg
+632,632,,,Is there a drill?,no,camera01_colorimage-005391.jpg
+633,633,,,Is there a drill?,no,camera05_colorimage-000824.jpg
+634,634,,,Is there a drill?,no,camera01_colorimage-005536.jpg
+635,635,,,Is there a drill?,no,camera01_colorimage-001010.jpg
+636,636,,,Is there a drill?,no,camera05_colorimage-005208.jpg
+637,637,,,Is there a drill?,no,camera01_colorimage-002707.jpg
+638,638,,,Is there a drill?,no,camera01_colorimage-001221.jpg
+639,639,,,Is there a drill?,no,camera05_colorimage-005055.jpg
+640,640,,,Is there a hammer?,no,camera01_colorimage-001186.jpg
+641,641,,,Is there a hammer?,no,camera05_colorimage-003136.jpg
+642,642,,,Is there a hammer?,no,camera05_colorimage-005489.jpg
+643,643,,,Is there a hammer?,no,camera05_colorimage-005150.jpg
+644,644,,,Is there a hammer?,no,camera05_colorimage-002803.jpg
+645,645,,,Is there a hammer?,no,camera01_colorimage-006011.jpg
+646,646,,,Is there a hammer?,no,camera01_colorimage-002717.jpg
+647,647,,,Is there a hammer?,no,camera05_colorimage-004936.jpg
+648,648,,,Is there a hammer?,no,camera01_colorimage-002329.jpg
+649,649,,,Is there a hammer?,no,camera05_colorimage-001966.jpg
+650,650,,,Is there a hammer?,no,camera05_colorimage-005541.jpg
+651,651,,,Is there a hammer?,no,camera04_colorimage-004732.jpg
+652,652,,,Is there a hammer?,no,camera01_colorimage-005391.jpg
+653,653,,,Is there a hammer?,no,camera05_colorimage-000824.jpg
+654,654,,,Is there a hammer?,no,camera01_colorimage-005536.jpg
+655,655,,,Is there a hammer?,no,camera01_colorimage-001010.jpg
+656,656,,,Is there a hammer?,no,camera05_colorimage-005208.jpg
+657,657,,,Is there a hammer?,no,camera01_colorimage-002707.jpg
+658,658,,,Is there a hammer?,no,camera01_colorimage-001221.jpg
+659,659,,,Is there a hammer?,no,camera05_colorimage-005055.jpg
+660,660,,,Is there a saw?,no,camera01_colorimage-001186.jpg
+661,661,,,Is there a saw?,no,camera05_colorimage-003136.jpg
+662,662,,,Is there a saw?,no,camera05_colorimage-005489.jpg
+663,663,,,Is there a saw?,no,camera05_colorimage-005150.jpg
+664,664,,,Is there a saw?,no,camera05_colorimage-002803.jpg
+665,665,,,Is there a saw?,no,camera01_colorimage-006011.jpg
+666,666,,,Is there a saw?,no,camera05_colorimage-004936.jpg
+667,667,,,Is there a saw?,no,camera05_colorimage-001966.jpg
+668,668,,,Is there a saw?,no,camera05_colorimage-005541.jpg
+669,669,,,Is there a saw?,no,camera04_colorimage-004732.jpg
+670,670,,,Is there a saw?,no,camera01_colorimage-005391.jpg
+671,671,,,Is there a saw?,no,camera05_colorimage-000824.jpg
+672,672,,,Is there a saw?,no,camera01_colorimage-005536.jpg
+673,673,,,Is there a saw?,no,camera01_colorimage-001010.jpg
+674,674,,,Is there a saw?,no,camera05_colorimage-005208.jpg
+675,675,,,Is there a saw?,no,camera01_colorimage-001221.jpg
+676,676,,,Is there a saw?,no,camera05_colorimage-005055.jpg
+677,677,,,Is there a saw?,no,camera05_colorimage-001332.jpg
+678,678,,,Is there a saw?,no,camera04_colorimage-005318.jpg
+679,679,,,Is there a saw?,no,camera04_colorimage-001468.jpg
+683,683,,,Is there a robot?,no,camera01_colorimage-005391.jpg
+684,684,,,Is there a robot?,no,camera01_colorimage-005536.jpg
+685,685,,,Is there a robot?,no,camera05_colorimage-002949.jpg
+686,686,,,Is there a robot?,no,camera01_colorimage-005403.jpg
+687,687,,,Is there a robot?,no,camera01_colorimage-005440.jpg
+688,688,,,Is there a robot?,no,camera01_colorimage-005589.jpg
+689,689,,,Is there a robot?,no,camera01_colorimage-005494.jpg
+690,690,,,Is there a robot?,no,camera01_colorimage-004755.jpg
+691,691,,,Is there a robot?,no,camera01_colorimage-005629.jpg
+692,692,,,Is there a robot?,no,camera01_colorimage-005627.jpg
+693,693,,,Is there a robot?,no,camera01_colorimage-005613.jpg
+694,694,,,Is there a robot?,no,camera01_colorimage-005521.jpg
+695,695,,,Is there a robot?,no,camera01_colorimage-005535.jpg
+696,696,,,Is there a robot?,no,camera01_colorimage-005532.jpg
+697,697,,,Is there a robot?,no,camera01_colorimage-005564.jpg
+698,698,,,Is there a robot?,no,camera01_colorimage-005489.jpg
+699,699,,,Is there a robot?,no,camera01_colorimage-005479.jpg
+700,700,,,Is there a robot?,no,camera01_colorimage-005604.jpg
+701,701,,,Is there a robot?,no,camera01_colorimage-005387.jpg
+702,702,,,Is there a robot?,no,camera01_colorimage-005693.jpg
+703,703,,,Is there a monitor?,no,camera01_colorimage-006011.jpg
+704,704,,,Is there a monitor?,no,camera04_colorimage-003367.jpg
+705,705,,,Is there a monitor?,no,camera04_colorimage-003360.jpg
+706,706,,,Is there a monitor?,no,camera05_colorimage-002518.jpg
+707,707,,,Is there a monitor?,no,camera01_colorimage-006000.jpg
+708,708,,,Is there a monitor?,no,camera04_colorimage-003339.jpg
+709,709,,,Is there a monitor?,no,camera01_colorimage-000367.jpg
+710,710,,,Is there a monitor?,no,camera04_colorimage-003327.jpg
+711,711,,,Is there a monitor?,no,camera04_colorimage-003342.jpg
+712,712,,,Is there a monitor?,no,camera04_colorimage-003335.jpg
+713,713,,,Is there a monitor?,no,camera01_colorimage-006003.jpg
+714,714,,,Is there a monitor?,no,camera05_colorimage-002036.jpg
+715,715,,,Is there a monitor?,no,camera04_colorimage-003368.jpg
+716,716,,,Is there a monitor?,no,camera01_colorimage-000351.jpg
+717,717,,,Is there a monitor?,no,camera01_colorimage-000349.jpg
+718,718,,,Is there a monitor?,no,camera04_colorimage-003351.jpg
+719,719,,,Is there a monitor?,no,camera05_colorimage-000407.jpg
+720,720,,,Is there a monitor?,no,camera04_colorimage-003338.jpg
+721,721,,,Is there a monitor?,no,camera01_colorimage-000332.jpg
+722,722,,,Is there a monitor?,no,camera04_colorimage-003356.jpg
+723,723,,,Is there a C-arm?,no,camera01_colorimage-001186.jpg
+724,724,,,Is there a C-arm?,no,camera05_colorimage-003136.jpg
+725,725,,,Is there a C-arm?,no,camera05_colorimage-005150.jpg
+726,726,,,Is there a C-arm?,no,camera05_colorimage-002803.jpg
+727,727,,,Is there a C-arm?,no,camera01_colorimage-006011.jpg
+728,728,,,Is there a C-arm?,no,camera01_colorimage-002717.jpg
+729,729,,,Is there a C-arm?,no,camera05_colorimage-004936.jpg
+730,730,,,Is there a C-arm?,no,camera01_colorimage-002329.jpg
+731,731,,,Is there a C-arm?,no,camera05_colorimage-001966.jpg
+732,732,,,Is there a C-arm?,no,camera04_colorimage-004732.jpg
+733,733,,,Is there a C-arm?,no,camera05_colorimage-000824.jpg
+734,734,,,Is there a C-arm?,no,camera01_colorimage-001010.jpg
+735,735,,,Is there a C-arm?,no,camera05_colorimage-005208.jpg
+736,736,,,Is there a C-arm?,no,camera01_colorimage-002707.jpg
+737,737,,,Is there a C-arm?,no,camera01_colorimage-001221.jpg
+738,738,,,Is there a C-arm?,no,camera05_colorimage-005055.jpg
+739,739,,,Is there a C-arm?,no,camera05_colorimage-001332.jpg
+740,740,,,Is there a C-arm?,no,camera04_colorimage-005318.jpg
+741,741,,,Is there a C-arm?,no,camera04_colorimage-001468.jpg
+742,742,,,Is there a C-arm?,no,camera01_colorimage-001779.jpg

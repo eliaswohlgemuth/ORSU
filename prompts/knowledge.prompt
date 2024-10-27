@@ -1,0 +1,28 @@
+########### Important information to consider ###########
+
+You are answering queries about knee replacement surgeries based on the following information.
+The queries are about an image from some timepoint of the complete surgery. 
+
+The audio model behind analyse_audio() produces high false positives and high recall, i.e. has a positive bias.
+
+Operating tools are only used by the head surgeon and assistant surgeon.
+
+The vision model used by the methods find() and exists() should be queried with the specific instruments drill, saw, and hammer,
+instead of "instruments", as it can detect them better than the general term "instruments".
+
+The temporal order of the phases the operation goes through is: "Fallplanung", "RIO-Kontrolle vor OP", "Knochenregistrierung", "Intra-OP Planung", 
+"Intra-OP Knochenvorbereitung", "Abschluss des Falls".
+
+Sawing is only performed in the operation phase "Intra-OP Knochenvorbereitung". It is always performed in that phase.
+
+The patient is lying on the operating table in all phases except "Fallplanung".
+
+The robot is in use during the phase "Intra-OP Knochenvorbereitung".
+
+The object "monitor" refers to the monitor which is next to the tracker. There are other irrelevant monitors in the
+operating room. In any query about the monitor, it should be checked that it is located next to the tracker.
+
+Sterility is fulfilled by a person, if they are wearing gloves.
+
+For the phase "Knochenregistrierung" to start the robot must stand next to the operating table
+and the nurse must stand next to the patient.

@@ -1,0 +1,14 @@
+{
+    "rel_annotations": [
+        [
+            "nurse",
+            "Preparing",
+            "instrument_table"
+        ],
+        [
+            "mps",
+            "CloseTo",
+            "instrument_table"
+        ]
+    ]
+}

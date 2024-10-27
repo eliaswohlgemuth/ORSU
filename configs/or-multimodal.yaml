@@ -1,0 +1,55 @@
+dataset:
+    data_path: './data/OR-multimodal'
+    dataset_name: OR-multimodal
+    llm_acc_metric: True
+    acc_prompt: ./prompts/OR-multimodal_LLM_accuracy_evaluation.prompt
+    model: exllamav2
+    model_name: 'Mixtral-8x7B-instruct-exl2/4.0bpw/'
+    max_tokens: 120
+    source_csv: "queries_generated/queries_people_counting.csv"
+    split: ''
+    testing: False
+    max_samples:
+    batch_size: 1
+    start_sample: 0
+
+results_dir : ./results/OR-multimodal/
+
+load_models:
+    maskrcnn: False         # required in find(), exists()
+    clip: False
+    clap: False             # required for audio identification
+    glip: True             # required for people counting, object detection, relation detection, audio identification
+    owlvit: False
+    tcl: False
+    gpt3_list: False
+    gpt3_qa: False
+    gpt3_guess: False
+    gpt3_general: False
+    depth: False
+    blip: False
+    llava: True            # required for object detection, relation detection, audio identification
+    saliency: False
+    xvlm: True             # required for phase detection
+    codex: False
+    codellama: False
+    exllamav2: True         # required for all
+
+codex:
+    model: exllamav2
+    model_name: 'CodeLlama-13B-it-exl2/4.0bpw/'
+    prompt : ./prompts/OR-multimodal.prompt
+    add_knowledge: False
+    max_tokens: 400
+
+ground_truth:
+    find: False
+    relation: False
+
+execute_code: True
+generate_code: True
+generated_code_file: "results/OR-multimodal/test_seg_label_detection.csv" 
+use_fixed_code: False
+
+log_files: False
+log_every: 1000

@@ -1,0 +1,14 @@
+index,sample_id,possible_answers,query_type,query,answer,image_name
+0,0,,,Is there a person?,,camera04_colorimage-005250.jpg
+1,1,,,Is every person wearing scrubs?,,camera04_colorimage-005250.jpg
+2,2,,,Is the head surgeon holding an instrument?,,camera04_colorimage-005250.jpg
+3,3,,,Is the hammer being used?,,camera04_colorimage-005250.jpg
+4,4,,,Is there sawing?,,camera04_colorimage-005250.jpg
+5,5,,,Has there been sawing so far?,,camera04_colorimage-005250.jpg
+6,6,,,Which instruments are there?,,camera04_colorimage-005250.jpg
+7,7,,,Is the head surgeon adhering to sterility?,,camera04_colorimage-005250.jpg
+8,8,,,Is the patient lying down?,,camera04_colorimage-005250.jpg
+9,9,,,Is the monitor on?,,camera04_colorimage-005250.jpg
+10,10,,,What is the next operation phase after the current one?,,camera04_colorimage-005250.jpg
+11,11,,,When is the robot being used?,,camera04_colorimage-005250.jpg
+12,12,,,Can the operation proceed with "Knochenregistrierung"?,,camera04_colorimage-005250.jpg

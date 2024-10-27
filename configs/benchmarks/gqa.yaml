@@ -1,0 +1,41 @@
+dataset:
+    data_path: './data/GQA'
+    dataset_name: GQA
+    split: testdev
+    testing: False
+    max_samples:
+    batch_size: 1
+    start_sample: 0
+
+results_dir : ./results/gqa/
+
+load_models:
+    maskrcnn: True
+    clip: False
+    glip: True
+    owlvit: False
+    tcl: False
+    gpt3_list: False
+    gpt3_qa: False
+    gpt3_guess: False
+    gpt3_general: False
+    depth: False
+    blip: True
+    saliency: False
+    xvlm: True
+    codex: False
+    codellama: False
+    exllamav2: True
+
+codex:
+    model: exllamav2
+    model_name: 'CodeLlama-13B-it-exl2/4.0bpw/'
+    prompt : ./prompts/benchmarks/gqa.prompt
+    max_tokens: 512
+
+execute_code: True
+generate_code: True
+generated_code_file: "outputs/2024-04-07/13-32-10/Full_codellama-34B-it_gen.csv" 
+
+log_files: True
+log_every: 1000
